@@ -1,0 +1,11 @@
+#配置端口号
+server:
+  port: 8082
+  #当前web应用的名称
+  servlet:
+    context-path: /demo
+
+test: 测试
+person:
+  name: 鸣人
+  age: 18
